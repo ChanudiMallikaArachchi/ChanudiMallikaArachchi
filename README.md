@@ -85,6 +85,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanudiMallikaArachchi&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChanudiMallikaArachchi&theme=radical" alt="Profile Details">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChanudiMallikaArachchi/ChanudiMallikaArachchi/output/snake.svg" alt="Snake Animation">
+</p>
+
 ---
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #8b949e;">
