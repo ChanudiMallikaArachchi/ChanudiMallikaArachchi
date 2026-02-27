@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="me_myself.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hacked&size=50&center=true&width=500&height=60&color=00D9FF&vCenter=true&lines=Chanudi+Mallika+Arachchi" alt="Chanudi Mallika Arachchi">
 </h1>
