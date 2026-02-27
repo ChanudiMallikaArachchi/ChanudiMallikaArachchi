@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:chanudimallika123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chanudimallika123@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email">
+  <a href="mailto:chanudiwassala@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chanudiwassala@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email">
   </a>
 </p>
 
@@ -71,7 +71,7 @@
   <a href="https://github.com/ChanudiMallikaArachchi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:chanudimallika123@gmail.com">
+  <a href="mailto:chanudiwassala@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
