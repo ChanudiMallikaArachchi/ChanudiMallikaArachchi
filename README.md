@@ -2,9 +2,13 @@
   <img src="me_myself.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hacked&size=50&center=true&width=500&height=60&color=00D9FF&vCenter=true&lines=I am Chanudi" alt="I am Chanudi">
+<h1 align="center" style="font-family: 'Hacked', sans-serif; font-size: 48 #00D9px; color:FF;">
+  I am Chanudi
 </h1>
+
+<p align="center">
+  <img src="https://cataas.com/cat?width=300" alt="Coding Cat">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChanudiMallikaArachchi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views">
@@ -63,7 +67,7 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="25px"> Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chanudi-mallika-arachchi-5b2a7a256/">
+  <a href="https://lk.linkedin.com/in/chanudi-mallikaarachchi-805062339">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/ChanudiMallikaArachchi">
