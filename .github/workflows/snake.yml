@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ChanudiMallikaArachchi
-          svg_path: output/snake.svg
+          output: output/snake.svg
 
       - name: Commit and Push
         run: |
