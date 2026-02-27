@@ -64,14 +64,15 @@
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="25px"> Connect With Me
-
 <p align="center">
   <a href="https://lk.linkedin.com/in/chanudi-mallikaarachchi-805062339">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/ChanudiMallikaArachchi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:chanudimallika123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -90,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChanudiMallikaArachchi/ChanudiMallikaArachchi/output/snake.svg" alt="Snake Animation">
+  <img src="https://ghchart.rshah.org/ChanudiMallikaArachchi" alt="Chanudi's GitHub Contribution Chart">
 </p>
 
 ---
